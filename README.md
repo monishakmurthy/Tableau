@@ -15,13 +15,9 @@ An interactive Tableau dashboard analyzing global tech layoffs by industry, coun
 - Excel / CSV
 - GitHub
 
-## 📸 Preview:
-_(Add screenshot here if you upload one)_
-
 ## 🔗 View on Tableau Public:
 (https://public.tableau.com/app/profile/monisha.k.murthy/viz/techlayoffsanalysis/BehindtheNumbersTechLayoffs)
 
----
+📂 Dataset - (data/cleaned_layoff_data.csv)
 
-### 👩‍💻 Author:
-Monisha K Murthy – BCA Student | Web Dev & Data Enthusiast
+
