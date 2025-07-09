@@ -1,0 +1,144 @@
+company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+Microsoft,Seattle,9000.0,2025-07-02,4%,Other,https://www.cnbc.com/2025/07/02/microsoft-laying-off-about-9000-employees-in-latest-round-of-cuts.html,Post-IPO,$1,United States,2025-07-02
+Google,SF Bay Area,75.0,2025-06-24,32%,Consumer,https://www.theinformation.com/articles/google-cuts-smart-tv-budget-doubles-youtube,Post-IPO,$26,United States,2025-06-25
+Intel,Sacramento,169.0,2025-06-24,53%,Hardware,https://www.oregonlive.com/silicon-forest/2025/06/intel-will-shut-down-its-automotive-business-lay-off-most-of-the-departments-employees.html,Post-IPO,$12,United States,2025-06-25
+Microsoft,Seattle,192.0,2025-06-24,20%,Other,https://www.bloomberg.com/news/articles/2025-06-24/microsoft-plans-major-job-cuts-at-xbox-gaming-division?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1MDc3Mjc0NiwiZXhwIjoxNzUxMzc3NTQ2LCJhcnRpY2xlSWQiOiJTWUQ0VkxEV1JHRzAwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.iMkVuxzB6m6hT_Rpwa-NQCTCvDapSt1DaRfpnGaqUSw&embedded-checkout=true&leadSource=uverify%20wall,Post-IPO,$1,United States,2025-06-25
+Microsoft,Seattle,305.0,2025-06-02,3%,Other,https://www.geekwire.com/2025/new-filing-microsoft-cuts-another-305-jobs-in-washington-state/,Post-IPO,$1,United States,2025-06-05
+Amazon,Seattle,100.0,2025-05-14,13%,Retail,https://www.cnbc.com/2025/05/14/amazon-lays-off-about-100-employees-in-devices-and-services-unit.html,Post-IPO,$8100,United States,2025-05-16
+Microsoft,Seattle,6000.0,2025-05-13,3%,Other,https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html,Post-IPO,$1,United States,2025-05-13
+Meta,SF Bay Area,100.0,2025-04-24,39%,Consumer,https://www.bloomberg.com/news/articles/2025-04-24/meta-lays-off-more-than-100-staff-across-reality-labs-unit,Post-IPO,$26000,United States,2025-04-29
+Intel,Sacramento,22000.0,2025-04-23,20%,Hardware,https://www.bloomberg.com/news/articles/2025-04-23/intel-to-announce-plans-this-week-to-cut-more-than-20-of-staff?srnd=homepage-americas,Post-IPO,$12,United States,2025-04-23
+Google,SF Bay Area,191.0,2025-04-11,38%,Consumer,https://www.reuters.com/technology/google-lays-off-hundreds-employees-android-pixel-group-information-reports-2025-04-11/,Post-IPO,$26,United States,2025-04-16
+HP,SF Bay Area,2000.0,2025-02-28,19%,Hardware,https://www.sfchronicle.com/tech/article/hp-job-cuts-tariff-concerns-20193141.php,Post-IPO,20000000,United States,2025-03-01
+Google,SF Bay Area,201.0,2025-02-27,22%,Consumer,https://www.cnbc.com/2025/02/27/google-makes-cuts-to-hr-and-cloud-units.html,Post-IPO,$26,United States,2025-02-28
+Meta,SF Bay Area,3600.0,2025-02-10,5%,Consumer,https://finance.yahoo.com/news/mark-zuckerberg-warned-employees-prepare-174916671.html,Post-IPO,$26000,United States,2025-01-16
+Intel,Sacramento,58.0,2025-02-04,27%,Hardware,https://folsomtimes.com/intel-announces-another-58-layoffs-for-folsom-campus/,Post-IPO,$12,United States,2025-02-21
+Salesforce,SF Bay Area,1000.0,2025-02-03,1%,Sales,https://finance.yahoo.com/news/salesforce-cut-1-000-roles-002028643.html,Post-IPO,$65,United States,2025-02-04
+Amazon,Seattle,485.0,2025-01-29,48%,Retail,https://www.bloomberg.com/news/articles/2025-01-29/amazon-cuts-dozens-of-corporate-jobs-in-latest-round-of-layoffs,Post-IPO,$8100,United States,2025-02-02
+Microsoft,Seattle,392.0,2025-01-14,35%,Other,https://www.businessinsider.com/microsoft-layoffs-hit-security-devices-sales-gaming-2025-1,Post-IPO,$1,United States,2025-01-15
+Microsoft,Seattle,298.0,2025-01-07,45%,Other,https://www.businessinsider.com/microsoft-plans-job-cuts-performance-management-2025-1,Post-IPO,$1,United States,2025-01-11
+LinkedIn,SF Bay Area,202.0,2024-11-21,1%,Recruiting,https://www.theinformation.com/briefings/linkedin-lays-off-200-employees,Acquired,$154,United States,2024-11-24
+AMD,SF Bay Area,1000.0,2024-11-13,4%,Hardware,https://www.techopedia.com/news/amd-layoffs-amid-mixed-earnings-and-intel-merger-speculation,Post-IPO,20000000,United States,2024-11-13
+Dropbox,SF Bay Area,527.0,2024-10-30,20%,Other,https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/,Post-IPO,$1700,United States,2024-10-30
+Meta,SF Bay Area,295.0,2024-10-16,48%,Consumer,https://www.theverge.com/2024/10/16/24272195/meta-layoffs-whatsapp-instagram-reality-labs,Post-IPO,$26000,United States,2024-10-17
+IBM,New York City,209.0,2024-09-18,30%,Hardware,https://www.theregister.com/2024/09/18/ibm_job_cuts/,Post-IPO,20000000,United States,2024-09-21
+Microsoft,Seattle,650.0,2024-09-12,21%,Other,https://www.ign.com/articles/microsoft-lays-off-another-650-staff-from-its-video-game-workforce-xbox-boss-phil-spencer-sends-memo-to-staff,Post-IPO,$1,United States,2024-09-12
+Apple,SF Bay Area,100.0,2024-08-27,46%,Hardware,https://www.bloomberg.com/news/articles/2024-08-28/apple-cuts-about-100-services-jobs-as-part-of-priority-shift,Post-IPO,$1200,United States,2024-08-28
+IBM,"Beijing,Non-U.S.",1000.0,2024-08-26,33%,Hardware,https://www.reuters.com/technology/ibm-close-china-rd-department-affecting-over-1000-jobs-yicai-reports-2024-08-26/,Post-IPO,20000000,China,2024-08-28
+Cisco,SF Bay Area,5600.0,2024-08-09,7%,Infrastructure,https://techcrunch.com/2024/09/17/ciscos-second-layoff-of-2024-affect-thousands-of-employees/,Post-IPO,$2,United States,2024-08-09
+Dell,Austin,311.0,2024-08-05,46%,Hardware,https://siliconangle.com/2024/08/05/dell-lays-off-thousands-workers-sales-reorganization/,Post-IPO,20000000,United States,2024-08-05
+Intel,SF Bay Area,15000.0,2024-08-01,15%,Hardware,https://www.intel.com/content/www/us/en/newsroom/news/actions-accelerate-our-progress.html#gs.cgq6eg,Post-IPO,$12,United States,2024-08-01
+Salesforce,SF Bay Area,300.0,2024-07-15,44%,Sales,https://www.bloomberg.com/news/articles/2024-07-15/salesforce-cuts-about-300-jobs-in-latest-sign-of-tech-austerity,Post-IPO,$65,United States,2024-07-15
+Spotify,"Stockholm,Non-U.S.",40.0,2024-07-15,7%,Media,https://adage.com/article/digital-marketing-ad-tech-news/spotify-focus-smaller-clients-programmatic-ad-tech-includes-40-layoffs/2569771,Post-IPO,$2100,Sweden,2024-07-16
+Microsoft,Seattle,432.0,2024-07-03,19%,Other,https://www.geekwire.com/2024/microsoft-lays-off-employees-in-new-round-of-cuts/,Post-IPO,$1,United States,2024-07-08
+PayPal,SF Bay Area,85.0,2024-06-18,17%,Finance,https://www.irishexaminer.com/business/companies/arid-41418832.html,Post-IPO,$216,Ireland,2024-06-23
+Microsoft,Seattle,1000.0,2024-06-03,28%,Other,https://www.theverge.com/2024/6/3/24170902/microsoft-hololens-2-mixed-reality-azure-layoffs,Post-IPO,$1,United States,2024-06-03
+Google,SF Bay Area,100.0,2024-05-31,7%,Consumer,https://www.businessinsider.com/google-cloud-layoffs-job-cuts-employees-globally-2024-5,Post-IPO,$26,United States,2024-06-01
+Google,SF Bay Area,57.0,2024-05-10,42%,Consumer,https://www.sfchronicle.com/tech/article/tech-layoffs-google-rivian-19451076.php,Post-IPO,$26,United States,2024-05-11
+Google,SF Bay Area,200.0,2024-05-01,40%,Consumer,https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html,Post-IPO,$26,United States,2024-05-02
+Tesla,Austin,500.0,2024-04-30,27%,Transportation,https://www.theverge.com/2024/4/30/24145621/tesla-layoff-supercharger-ev-charging-nacs-elon-musk,Post-IPO,$20200,United States,2024-05-01
+Google,SF Bay Area,73.0,2024-04-30,14%,Consumer,https://techcrunch.com/2024/04/29/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/,Post-IPO,$26,United States,2024-04-30
+Google,SF Bay Area,462.0,2024-04-17,30%,Consumer,https://www.reuters.com/technology/google-lays-off-employees-shifts-some-roles-abroad-amid-cost-cuts-2024-04-17/,Post-IPO,$26,United States,2024-04-18
+Tesla,Austin,14000.0,2024-04-15,10%,Transportation,https://www.nytimes.com/2024/04/15/business/tesla-layoff-elon-musk.html,Post-IPO,$20200,United States,2024-04-15
+Intel,SF Bay Area,62.0,2024-04-09,32%,Hardware,https://www.crn.com/news/components-peripherals/2024/intel-layoffs-impact-62-jobs-at-california-hq,Post-IPO,$12,United States,2024-04-12
+Apple,SF Bay Area,614.0,2024-04-04,58%,Hardware,https://www.bloomberg.com/news/articles/2024-04-04/apple-cut-at-least-600-workers-when-car-screen-projects-stopped?embedded-checkout=true,Post-IPO,$1200,United States,2024-04-05
+Amazon,Seattle,463.0,2024-04-03,7%,Retail,https://www.geekwire.com/2024/amazon-web-services-cuts-hundreds-of-jobs-in-sales-training-and-physical-stores-technology/,Post-IPO,$108,United States,2024-04-03
+Dell,Austin,6000.0,2024-03-25,5%,Hardware,https://siliconangle.com/2024/03/25/dell-reduces-global-workforce-around-6000-jobs/,Post-IPO,20000000,United States,2024-03-27
+IBM,New York City,332.0,2024-03-12,15%,Hardware,https://www.cnbc.com/2024/03/12/ibm-tells-employees-of-job-cuts-in-marketing-and-communications.html,Post-IPO,20000000,United States,2024-03-17
+Meta,SF Bay Area,445.0,2024-03-06,5%,Consumer,https://www.businessinsider.com/meta-facebook-messenger-hit-with-layoffs-2024-3?IR=T,Post-IPO,$26000,United States,2024-03-08
+Apple,SF Bay Area,244.0,2024-02-27,58%,Transportation,https://techcrunch.com/2024/02/27/apple-cancels-electric-car-project-titan/,Post-IPO,$1200,United States,2024-02-27
+Cisco,SF Bay Area,4250.0,2024-02-14,5%,Infrastructure,https://www.cnbc.com/2024/02/14/cisco-cutting-5percent-of-global-workforce-in-restructuring-move.html,Post-IPO,$2,United States,2024-02-14
+Amazon,Seattle,400.0,2024-02-06,48%,Retail,https://www.businessinsider.com/amazon-one-medical-pharmacy-layoffs-broader-cost-cutting-campaign-2024-2,Post-IPO,$108,United States,2024-02-07
+Snap,Los Angeles,500.0,2024-02-05,10%,Consumer,https://www.cnbc.com/2024/02/05/snap-to-lay-off-10percent-of-global-workforce-around-500-employees.html,Post-IPO,$4900,United States,2024-02-05
+Zoom,SF Bay Area,150.0,2024-02-01,2%,Other,https://www.cnbc.com/2024/02/01/zoom-layoffs-company-cuts-150-employees-2percent-of-workforce.html,Post-IPO,$276,United States,2024-02-01
+PayPal,SF Bay Area,2500.0,2024-01-30,9%,Finance,https://www.bloomberg.com/news/articles/2024-01-30/paypal-to-cut-around-2-500-jobs-as-rivals-snag-market-share,Post-IPO,$216,United States,2024-01-30
+Salesforce,SF Bay Area,700.0,2024-01-26,1%,Sales,https://www.wsj.com/economy/jobs/salesforce-laying-off-700-workers-in-latest-tech-industry-downsizing-6a082fa3,Post-IPO,$65,United States,2024-01-26
+Microsoft,Seattle,1900.0,2024-01-25,21%,Other,https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs,Post-IPO,$1,United States,2024-01-25
+Google,SF Bay Area,167.0,2024-01-22,21%,Consumer,https://www.bloomberg.com/news/articles/2024-01-22/google-layoffs-saga-continues-as-alphabet-s-x-cuts-dozens-of-jobs-seeks-funds,Post-IPO,$26,United States,2024-01-23
+Amazon,Seattle,30.0,2024-01-18,37%,Retail,https://www.cnbc.com/2024/01/18/-amazon-layoffs-hit-its-buy-with-prime-unit.html,Post-IPO,$108,United States,2024-01-19
+Google,SF Bay Area,494.0,2024-01-16,35%,Consumer,https://www.businessinsider.com/google-is-laying-off-hundreds-of-employees-in-its-advertising-team-2024-1,Post-IPO,$26,United States,2024-01-30
+Google,SF Bay Area,1000.0,2024-01-10,10%,Consumer,https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware,Post-IPO,$26,United States,2024-01-11
+Amazon,Seattle,263.0,2024-01-10,5%,Retail,https://www.reuters.com/technology/amazon-lay-off-employees-prime-video-studios-divisions-information-2024-01-10/,Post-IPO,$108,United States,2024-01-10
+Intel,Sacramento,311.0,2023-12-21,49%,Hardware,https://www.theregister.com/2023/12/21/intel_gifts_311_cali_workers/,Post-IPO,$12,United States,2023-12-19
+Spotify,"Stockholm,Non-U.S.",1500.0,2023-12-04,17%,Media,https://www.cnbc.com/2023/12/04/spotify-to-lay-off-17percent-of-employees-ceo-daniel-ek-says.html,Post-IPO,$2100,Sweden,2023-12-04
+Amazon,Seattle,136.0,2023-11-17,15%,Retail,https://www.geekwire.com/2023/amazon-will-cut-several-hundred-more-jobs-on-alexa-team-as-it-discontinues-some-initiatives/,Post-IPO,$108,United States,2023-11-17
+Amazon,Seattle,180.0,2023-11-13,28%,Retail,https://www.cnbc.com/2023/11/13/amazon-cuts-more-than-180-jobs-in-gaming-division.html,Post-IPO,$108,United States,2023-11-13
+Snap,Los Angeles,20.0,2023-11-08,24%,Consumer,https://www.theinformation.com/articles/snap-lays-off-product-managers-as-spiegel-revamps-workforce,Post-IPO,$4900,United States,2023-11-09
+Amazon,Seattle,396.0,2023-11-08,18%,Retail,https://www.reuters.com/technology/amazon-says-cuts-jobs-music-streaming-unit-2023-11-08/,Post-IPO,$108,United States,2023-11-09
+Google,SF Bay Area,213.0,2023-11-08,22%,Consumer,https://www.theinformation.com/briefings/google-lays-off-some-user-support-staff,Post-IPO,$26,United States,2023-11-09
+Google,SF Bay Area,40.0,2023-10-18,39%,Consumer,https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html,Post-IPO,$26,United States,2023-10-19
+LinkedIn,SF Bay Area,660.0,2023-10-16,3%,Recruiting,https://techcrunch.com/2023/10/16/linkedin-layoffs-2/,Acquired,$154,United States,2023-10-16
+Meta,SF Bay Area,406.0,2023-10-04,15%,Consumer,https://www.reuters.com/technology/meta-lay-off-employees-metaverse-silicon-unit-wednesday-2023-10-03/,Post-IPO,$26000,United States,2023-10-04
+Snap,Los Angeles,170.0,2023-09-27,7%,Consumer,https://newsroom.snap.com/ar-enterprise-strategic-review,Post-IPO,$4900,United States,2023-09-28
+Cisco,SF Bay Area,350.0,2023-09-17,59%,Infrastructure,https://www.marketwatch.com/story/cisco-to-cut-350-jobs-in-latest-round-of-layoffs-f9084451,Post-IPO,$2,United States,2023-09-20
+Google,SF Bay Area,75.0,2023-09-13,33%,Consumer,https://www.eastbaytimes.com/2023/10/31/google-tech-job-cut-layoff-bay-area-economy-office-lease-alphabet/,Post-IPO,$26,United States,2023-09-13
+Intel,SF Bay Area,140.0,2023-08-17,32%,Hardware,https://www.tomshardware.com/news/intel-to-make-further-workforce-cuts-in-us-report,Post-IPO,$12,United States,2023-08-19
+Dell,Austin,11.0,2023-08-07,38%,Hardware,https://www.crn.com/news/channel-news/dell-confirms-sales-layoffs-as-part-of-new-partner-led-storage-strategy,Post-IPO,20000000,United States,2023-08-08
+Salesforce,"Dublin,Non-U.S.",50.0,2023-08-02,19%,Sales,https://www.bloomberg.com/news/articles/2023-08-02/salesforce-cuts-more-jobs-after-10-reduction-earlier-this-year?in_source=embedded-checkout-banner#xj4y7vzkg,Post-IPO,$65,Ireland,2023-08-04
+Microsoft,Seattle,1000.0,2023-07-18,56%,Other,https://www.businessinsider.com/microsoft-layoffs-more-than-1000-jobs-sales-customer-service-2023-7?IR=T,Post-IPO,$1,United States,2023-07-10
+IBM,"Tel Aviv,Non-U.S.",26.0,2023-07-17,36%,Hardware,https://www.calcalistech.com/ctechnews/article/ryacsbqqh,Post-IPO,20000000,United States,2023-07-19
+Amazon,Seattle,80.0,2023-07-13,46%,Retail,https://news.yahoo.com/amazon-lays-off-80-workers-230451163.html?guccounter=1,Post-IPO,$108,United States,2023-07-14
+Uber,SF Bay Area,200.0,2023-06-21,34%,Transportation,https://www.nasdaq.com/articles/uber-to-lay-off-200-employees-in-recruitment-division,Post-IPO,$25200,United States,2023-06-22
+Spotify,"Stockholm,Non-U.S.",200.0,2023-06-05,2%,Media,https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html,Post-IPO,$2100,Sweden,2023-06-05
+Microsoft,Seattle,158.0,2023-05-10,50%,Other,https://www.geekwire.com/2023/microsoft-cutting-more-jobs-in-seattle-region-beyond-global-layoffs-announced-in-january/,Post-IPO,$1,United States,2023-05-11
+LinkedIn,SF Bay Area,716.0,2023-05-08,4%,Recruiting,https://www.reuters.com/technology/linkedin-cut-716-jobs-phase-out-china-local-jobs-app-2023-05-09/,Acquired,$154,United States,2023-05-09
+Shopify,"Ottawa,Non-U.S.",2300.0,2023-05-04,20%,Retail,https://www.cbc.ca/news/business/shopify-layoffs-1.6831842,Post-IPO,$122,Canada,2023-05-04
+Dropbox,SF Bay Area,500.0,2023-04-27,16%,Other,https://blog.dropbox.com/topics/company/a-message-from-drew,Post-IPO,$1700,United States,2023-04-27
+Apple,SF Bay Area,298.0,2023-04-03,57%,Retail,https://www.bloomberg.com/news/articles/2023-04-03/apple-to-make-small-number-of-job-cuts-in-some-corporate-retail-teams#xj4y7vzkg,Post-IPO,$6200,United States,2023-04-05
+Spotify,"Stockholm,Non-U.S.",15.0,2023-03-30,30%,Media,https://www.bloomberg.com/news/newsletters/2023-03-30/tensions-flare-inside-npr-after-staff-layoffs-and-town-halls,Post-IPO,$2100,Sweden,2023-04-01
+Amazon,Seattle,9000.0,2023-03-20,30%,Retail,https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html,Post-IPO,$108,United States,2023-03-20
+Meta,SF Bay Area,10000.0,2023-03-14,25%,Consumer,https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/,Post-IPO,$26000,United States,2023-03-14
+Airbnb,SF Bay Area,30.0,2023-03-03,30%,Travel,https://www.bloomberg.com/news/articles/2023-03-03/airbnb-layoffs-hit-recruiting-staff-even-as-it-selectively-hires,Post-IPO,$6400,United States,2023-03-04
+Twitter,SF Bay Area,200.0,2023-02-25,10%,Consumer,https://www.nytimes.com/2023/02/26/technology/twitter-layoffs.html,Post-IPO,$12900,United States,2023-02-26
+HP,"Tel Aviv,Non-U.S.",100.0,2023-02-19,32%,Hardware,https://www.themarker.com/technation/2023-02-19/ty-article/.premium/00000186-692c-d22b-ad9e-7f6e08aa0000,Post-IPO,$4200,Israel,2023-02-20
+LinkedIn,SF Bay Area,452.0,2023-02-13,20%,Recruiting,https://www.theinformation.com/articles/microsofts-linkedin-lays-off-staff-amid-hiring-slowdown,Acquired,$154,United States,2023-02-13
+Zoom,SF Bay Area,1300.0,2023-02-07,15%,Other,https://www.cnbc.com/2023/02/07/zoom-to-lay-off-1300-employees-or-about-15percent-of-its-workforce.html,Post-IPO,$276,United States,2023-02-07
+Dell,Austin,6650.0,2023-02-06,5%,Hardware,https://www.bloomberg.com/news/articles/2023-02-06/dell-dell-lays-off-about-6-650-employees-in-latest-tech-cuts#xj4y7vzkg,Post-IPO,20000000,United States,2023-02-06
+Pinterest,SF Bay Area,150.0,2023-02-01,57%,Consumer,https://www.bloomberg.com/news/articles/2023-02-02/pinterest-cuts-about-150-jobs-joining-flurry-of-tech-layoffs,Post-IPO,$1500,United States,2023-02-02
+PayPal,SF Bay Area,2000.0,2023-01-31,7%,Finance,https://www.cnbc.com/2023/01/31/paypal-to-lay-off-2000-employees-in-coming-weeks-about-7percent-of-workforce.html,Post-IPO,$216,United States,2023-01-31
+Intel,SF Bay Area,343.0,2023-01-30,14%,Hardware,https://www.sfgate.com/tech/article/intel-plans-layoffs-california-campus-17752669.php,Post-IPO,$12,United States,2023-01-31
+IBM,New York City,3900.0,2023-01-25,2%,Hardware,https://www.bloomberg.com/news/articles/2023-01-25/ibm-to-cut-about-3-900-workers-still-hiring-in-higher-growth-areas,Post-IPO,20000000,United States,2023-01-25
+Spotify,"Stockholm,Non-U.S.",600.0,2023-01-23,6%,Media,https://www.reuters.com/technology/spotify-trim-6-workforce-2023-01-23/,Post-IPO,$2100,Sweden,2023-01-23
+Google,SF Bay Area,12000.0,2023-01-20,6%,Consumer,https://www.nytimes.com/2023/01/20/business/google-alphabet-layoffs.html,Post-IPO,$26,United States,2023-01-20
+Microsoft,Seattle,10000.0,2023-01-18,5%,Other,https://www.usatoday.com/story/money/2023/01/18/microsoft-layoffs-10000-employees-stock/11074235002/,Post-IPO,$1,United States,2023-01-18
+Oracle,SF Bay Area,152.0,2023-01-17,51%,Other,https://www.businessinsider.com/leaked-oracle-emails-exec-leaving-layoffs-advertising-reorg-2023-1?IR=T,Post-IPO,20000000,United States,2023-01-27
+Twitter,SF Bay Area,40.0,2023-01-05,13%,Consumer,https://www.theinformation.com/articles/musk-lays-off-twitter-engineers-working-on-advertising-as-ad-revenue-shrinks,Post-IPO,$12900,United States,2023-01-06
+Amazon,Seattle,8000.0,2023-01-04,2%,Retail,https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304,Post-IPO,$108,United States,2023-01-05
+Salesforce,SF Bay Area,8000.0,2023-01-04,10%,Sales,https://www.nytimes.com/2023/01/04/business/salesforce-layoffs.html,Post-IPO,$65,United States,2023-01-04
+Intel,SF Bay Area,201.0,2022-12-06,55%,Hardware,https://www.crn.com/news/computing/intel-begins-layoffs-in-california-voluntary-unpaid-leave-program,Post-IPO,$12,United States,2022-12-30
+Adobe,SF Bay Area,100.0,2022-12-06,40%,Marketing,https://www.bloomberg.com/news/articles/2022-12-06/adobe-cuts-100-jobs-concentrated-in-sales-as-tech-tightens-belt,Post-IPO,$2,United States,2022-12-07
+Pinterest,SF Bay Area,99.0,2022-11-30,54%,Consumer,https://www.theinformation.com/briefings/pinterest-cuts-recruiting-team-slows-hiring,Post-IPO,$1500,United States,2022-12-01
+Amazon,Seattle,10000.0,2022-11-16,3%,Retail,https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html,Post-IPO,$108,United States,2022-11-16
+Cisco,SF Bay Area,4100.0,2022-11-16,5%,Infrastructure,https://www.bizjournals.com/sanjose/news/2022/11/16/cisco-announces-600m-restructuring-layoffs.html,Post-IPO,$2,United States,2022-11-17
+Meta,SF Bay Area,11000.0,2022-11-09,13%,Consumer,https://www.cnbc.com/2022/11/09/meta-to-lay-off-more-than-11000-thousand-employees.html,Post-IPO,$26000,United States,2022-11-09
+Spotify,"Stockholm,Non-U.S.",339.0,2022-11-09,33%,Media,https://www.digitalmusicnews.com/2022/11/09/spotify-layoffs-november-2022/,Post-IPO,$2100,Sweden,2022-11-10
+Salesforce,SF Bay Area,1000.0,2022-11-07,1%,Sales,https://www.cnbc.com/2022/11/08/salesforce-cut-hundreds-of-employees-on-monday.html,Post-IPO,$65,United States,2022-11-09
+Twitter,SF Bay Area,3700.0,2022-11-04,50%,Consumer,https://www.nytimes.com/2022/11/04/technology/elon-musk-twitter-layoffs.html,Post-IPO,$12900,United States,2022-11-04
+Oracle,SF Bay Area,200.0,2022-11-01,22%,Other,https://www.businessinsider.com/oracle-cloud-infrastructure-layoffs-200-employees-2022-11?IR=T,Post-IPO,20000000,United States,2022-11-17
+Amazon,Seattle,150.0,2022-10-28,21%,Retail,https://www.geekwire.com/2022/amazon-makes-staff-cuts-at-amp-the-app-it-launched-this-year-to-reimagine-radio/,Post-IPO,$108,United States,2023-01-11
+Microsoft,Seattle,381.0,2022-10-17,33%,Other,https://www.cnbc.com/2022/10/18/microsoft-confirms-job-cuts-after-calling-for-growth-to-slow.html,Post-IPO,$1,United States,2022-11-15
+Salesforce,SF Bay Area,90.0,2022-10-13,8%,Sales,https://www.protocol.com/bulletins/salesforce-layoffs-hiring-freeze,Post-IPO,$65,United States,2022-10-14
+Spotify,"Stockholm,Non-U.S.",175.0,2022-10-06,35%,Media,https://techcrunch.com/2022/10/06/spotify-cancels-11-original-podcasts-lays-off-under-5-of-staff/,Post-IPO,$2100,Sweden,2022-10-07
+Netflix,SF Bay Area,30.0,2022-09-14,18%,Media,https://deadline.com/2022/09/netflix-animation-layoff-30-staffers-overhaul-continues-1235118700/,Post-IPO,$121900,United States,2022-09-16
+Uber,"Vilnius,Non-U.S.",60.0,2022-09-07,40%,Transportation,https://www.linkedin.com/posts/gergelyorosz_uber-lithuania-softwareengineering-activity-6973669838502187009-aK1z/,Post-IPO,$24700,Lithuania,2022-09-09
+Shopify,"Ottawa,Non-U.S.",70.0,2022-09-01,26%,Retail,https://www.theinformation.com/briefings/shopify-makes-a-fresh-round-of-layoffs,Post-IPO,$122,Canada,2022-09-01
+Snap,Los Angeles,1280.0,2022-08-31,20%,Consumer,https://www.theverge.com/2022/8/30/23329301/snap-layoffs-20-percent-employees-snapchat,Post-IPO,$4900,United States,2022-08-30
+Oracle,SF Bay Area,342.0,2022-08-01,56%,Other,https://www.bloomberg.com/news/articles/2022-08-01/oracle-cuts-workers-in-us-customer-analytics-division?sref=Oeyjq8by#xj4y7vzkg,Post-IPO,20000000,United States,2022-11-17
+Shopify,"Ottawa,Non-U.S.",1000.0,2022-07-26,10%,Retail,https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047,Post-IPO,$122,Canada,2022-07-26
+Microsoft,Seattle,424.0,2022-07-12,19%,Other,https://www.cnbc.com/2022/07/12/microsoft-cuts-small-percentage-of-employees-as-new-fiscal-year-begins.html,Post-IPO,$1,United States,2022-11-15
+Twitter,SF Bay Area,231.0,2022-07-07,43%,Consumer,https://www.wsj.com/articles/twitter-lays-off-third-of-talent-team-11657227105,Post-IPO,$5700,United States,2022-07-07
+Shopify,"Ottawa,Non-U.S.",50.0,2022-07-06,22%,Retail,https://www.theglobeandmail.com/business/article-shopify-compensation-hiring-plans/,Post-IPO,$122,Canada,2022-07-06
+Netflix,SF Bay Area,300.0,2022-06-23,3%,Media,https://www.cnbc.com/2022/06/23/netflix-lays-off-300-more-employees-as-revenue-growth-continues-to-slow.html,Post-IPO,$121900,United States,2022-06-23
+Tesla,Austin,208.0,2022-06-03,10%,Transportation,https://www.cnbc.com/2022/06/03/heres-the-email-elon-musk-sent-all-tesla-employees-10percent-job-cuts.html,Post-IPO,$20200,United States,2022-11-10
+PayPal,SF Bay Area,83.0,2022-05-23,36%,Finance,https://www.bizjournals.com/sanjose/news/2022/05/23/paypal-lays-off-83-workers-from-san-jose-hq.html,Post-IPO,$216,United States,2022-05-26
+Netflix,SF Bay Area,150.0,2022-05-17,1%,Media,https://www.cnbc.com/2022/05/17/netflix-lays-off-150-employees-as-the-streaming-service-contends-with-big-subscriber-losses.html,Post-IPO,$121900,United States,2022-05-17
+Netflix,SF Bay Area,25.0,2022-04-28,41%,Media,https://www.thewrap.com/netflix-layoffs-tudum-site-marketing-department/,Post-IPO,$121900,United States,2022-05-12
+Dropbox,SF Bay Area,315.0,2021-01-13,15%,Other,https://www.cnbc.com/2021/01/13/dropbox-to-cut-11percent-of-its-global-workforce.html,Post-IPO,$1700,United States,2021-01-13
+Salesforce,SF Bay Area,1000.0,2020-08-26,2%,Sales,https://www.bloomberg.com/news/articles/2020-08-26/salesforce-cuts-1-000-jobs-after-banner-quarter-stock-surge,Post-IPO,$65,United States,2020-08-26
+Shopify,"Ottawa,Non-U.S.",30.0,2020-08-14,49%,Retail,https://betakit.com/shopify-cuts-office-staff-amid-remote-work-shift/,Post-IPO,$122,Canada,2020-08-14
+LinkedIn,SF Bay Area,960.0,2020-07-21,6%,Recruiting,https://layoffs.fyi/2020/08/04/linkedin-launches-official-talent-directory-after-laying-off-960-employees/,Acquired,$154,United States,2020-07-21
+Uber,"Amsterdam,Non-U.S.",225.0,2020-06-12,25%,Transportation,https://www.dutchnews.nl/news/2020/06/uber-cuts-amsterdam-workforce-by-15-some-200-jobs-to-go/,Post-IPO,$24700,Netherlands,2020-06-27
+Uber,Bengaluru,600.0,2020-05-26,23%,Transportation,https://www.reuters.com/article/us-india-uber-layoffs/uber-cuts-600-jobs-in-india-as-lockdown-hits-business-idUSKBN2320S3,Post-IPO,$24700,India,2020-05-26
+Uber,SF Bay Area,3000.0,2020-05-18,13%,Transportation,https://layoffs.fyi/2020/05/18/uber-lays-off-3000-more-employees-on-top-of-the-3700-laid-off-earlier-this-month/,Post-IPO,$24700,United States,2020-05-18
+Uber,SF Bay Area,3700.0,2020-05-06,14%,Transportation,https://layoffs.fyi/2020/05/12/uber-laid-off-3700-employees-with-more-expected/,Post-IPO,$24700,United States,2020-05-06
+Airbnb,SF Bay Area,1900.0,2020-05-05,25%,Travel,https://layoffs.fyi/2020/05/07/airbnb-laid-off-1900-employees/,Private Equity,$5400,United States,2020-05-05
