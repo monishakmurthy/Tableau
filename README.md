@@ -18,6 +18,6 @@ An interactive Tableau dashboard analyzing global tech layoffs by industry, coun
 ## 🔗 View on Tableau Public:
 (https://public.tableau.com/app/profile/monisha.k.murthy/viz/techlayoffsanalysis/BehindtheNumbersTechLayoffs)
 
-📂 Dataset - (data/cleaned_layoff_data.csv)
+📂 Dataset - (Tableau/data/cleaned_layoff_data.csv)
 
 
